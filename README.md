@@ -1,6 +1,6 @@
 # The Unofficial Guide
 
-corpus: `city_guides`
+name: Stella Ji corpus: `city_guides`
 
 ---
 
